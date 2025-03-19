@@ -71,6 +71,12 @@ make
 - **utils.c:**  
   Provides helper functions like `ft_atoi` and `ft_strlen`, which are used for error checking and string manipulation.
 
+- **push_swap.h:**
+  The header file that includes prototypes, and necessary includes for the project.
+
+- **Makefile:**
+  Automates the build process, ensuring all files are compiled with the required flags.
+
 ## What I Learned
 
 Working on push_swap was an incredible learning experience. I gained hands-on expertise in:
